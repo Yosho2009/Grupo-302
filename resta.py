@@ -1,3 +1,4 @@
+# Codigo hecho por Gustavo
 def restar(): 
     numero1 = float(input("Ingresa el primer numero: "))
     numero2 = float(input("Ingresa el segundo numero: "))
